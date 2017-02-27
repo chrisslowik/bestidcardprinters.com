@@ -1,0 +1,9 @@
+- menu_name: "Footer Links!"
+
+- name: "About"
+  url: "/about"
+  title: "About Us"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"
