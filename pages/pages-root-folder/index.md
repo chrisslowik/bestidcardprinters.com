@@ -1,52 +1,23 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page-fullwidth
+title:  "What are The Best ID Card Printers?"
+meta_title: "Best Id Card Printers | Bestidcardprinters.com"
+subheadline:  "Find out with this guide"
+teaser: "ID Card Printing is an important part of many businesses, make sure you choose the correct printer with this handy and free guide."
 header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
+   image_fullwidth: header_unsplash_leaf.jpg
 ---
+So your organization wants to have the ability to create ID cards in-house, and you’ve been assigned to find the best ID card printer. What’s the best ID card printer available? The short answer: there isn’t a “best” printer. Sorry!
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+While there isn’t a one-size-fits-all ID card printer, there’s definitely a printer that’s ideal for your specific printing requirements. But how do you know which one is right for you? It’s easier than you might think, because we offer a variety of helpful tools that will allow you to become an informed and confident ID card printer shopper!
+
+A great way to initially narrow down your choices is to answer five key questions before you even start to think about shopping, namely:
+
+1. How much information will cards display?
+If you’re only including a limited amount of information on your ID cards – like name, photo, and company logo – single-sided printers are the way to go. If you need to print more information than the basics (e.g., employee ID number, barcode, cardholder title, department, etc.), dual-sided printers are the optimal choice.
+
+2. What about data storage on your cards?
+You’ll want to choose a printer with encoding capabilities which allows you to add important information – like cardholder details or access privileges – onto a card’s magnetic stripe or directly onto technology cards like smart cards or proximity cards.
+
+3. What type of card will you be printing to?
+This is integral, because the type of card you use dictates which printing technology that’s best for you. Retransfer printers are the logical choice as they use special technology for printing on cards with uneven surfaces like proximity cards or smart cards. For printing on basic plastic cards, direct-to-card printers make the most sense, but retransfer printers can also be used for outstanding visual quality and durability.
