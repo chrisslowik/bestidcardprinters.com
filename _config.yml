@@ -36,7 +36,7 @@ url: 'http://bestidcardprinters.com'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://bestidcardprinters/images/'
+urlimg: 'http://bestidcardprinters.com/images/'
 
 
 # Logo size is 600x80 pixels
@@ -227,7 +227,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+google_analytics_tracking_id:
 
 
 
