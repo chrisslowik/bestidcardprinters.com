@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
 title:  "What are The Best ID Card Printers?"
-meta_title: "Best Id Card Printers | Bestidcardprinters.com"
 subheadline:  "Find out with this guide"
 teaser: "ID Card Printing is an important part of many businesses, make sure you choose the correct printer with this handy and free guide."
 header:
