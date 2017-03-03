@@ -3,9 +3,6 @@ layout: page-fullwidth
 title:  "Contact"
 meta_title: "Contact | Bestidcardprinters.com"
 teaser: "Get in touch with me? Use the contact form."
-header:
-   title: BESTIDCARDPRINTERS.COM
-   image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 permalink: "/contact"
 ---
 If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.

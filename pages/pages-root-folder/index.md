@@ -4,9 +4,6 @@ homepage: true
 title:  "The Best Guide for The Best ID Card Printers"
 meta_title: "The Best ID Card Printers | Bestidcardprinters.com"
 subheadline:  "Don't waste time doing the research, we did it for you!"
-header:
-   title: BESTIDCARDPRINTERS.COM
-   image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 permalink: /index.html
 ---
 
