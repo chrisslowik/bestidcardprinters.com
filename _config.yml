@@ -141,11 +141,10 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_author:             ''
-google_site_verification:  ''
+google_site_verification:  '3_0yT1lRRUpeu09bnvM5H5Sctx14wzIwdJClE7ZQ9Pc'
 bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
-
 
 
 #       ______            _
@@ -225,7 +224,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-92985351-1
 
 
 
