@@ -1,8 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "Contact"
 meta_title: "Contact | Bestidcardprinters.com"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact"
 ---
 
